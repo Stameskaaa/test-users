@@ -1,0 +1,5 @@
+.list {
+  height: 500px;
+  overflow-y: auto;
+  width: 700px;
+}

@@ -1,0 +1,10 @@
+.user {
+  display: flex;
+  gap: 30px;
+  width: 100%;
+  padding: 8px 16px;
+}
+.user img {
+  height: 30px;
+  aspect-ratio: 1 / 1;
+}
